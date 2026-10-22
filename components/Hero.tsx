@@ -11,6 +11,7 @@ export default function Hero() {
         width={160}
         height={160}
         priority
+        unoptimized
         className="mb-6 h-40 w-40 object-contain"
       />
       <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl">
