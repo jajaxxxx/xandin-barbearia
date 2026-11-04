@@ -55,7 +55,7 @@ export default function AgendaDia() {
   const [cancelando, setCancelando] = useState("");
   const [versao, setVersao] = useState(0);
 
-  // Começa no dia de hoje (calculado só no navegador)
+  
   useEffect(() => {
     setData(hojeSP());
   }, []);

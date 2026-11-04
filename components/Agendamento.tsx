@@ -127,13 +127,13 @@ export default function Agendamento({
   const [erroEnvio, setErroEnvio] = useState("");
   const [confirmado, setConfirmado] = useState<Confirmado | null>(null);
 
-  // Se a pessoa está com a conta ligada (null = ainda descobrindo)
+  
   const [logado, setLogado] = useState<boolean | null>(null);
 
   // Muda para recarregar a lista de horários livres
   const [versao, setVersao] = useState(0);
 
-  // Monta a lista de dias só no navegador
+  
   useEffect(() => {
     setDias(proximosDias(14));
   }, []);
@@ -369,7 +369,7 @@ export default function Agendamento({
         )}
       </div>
 
-      {/* 2. Barbeiro (só aparece se houver mais de um) */}
+      {/* 2. Barbeiro  */}
       {servicoId && barbeiros.length > 1 && (
         <>
           <Passo numero={2} titulo="Escolha o barbeiro" />

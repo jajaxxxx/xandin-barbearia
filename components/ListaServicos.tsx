@@ -29,7 +29,7 @@ export default async function ListaServicos() {
     );
   }
 
-  // Agrupa os serviços por categoria (Cabelo, Barba, Combos...)
+  
   const grupos = new Map<string, Servico[]>();
   for (const s of (data ?? []) as Servico[]) {
     const categoria = s.category ?? "Outros";
