@@ -46,8 +46,8 @@ Também conta com:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/jajaxxxx/site-0.1.git
-   cd site-0.1
+   git clone https://github.com/jajaxxxx/xandin-barbearia.git
+   cd xandin-barbearia
    ```
 
 2. Instale as dependências:
@@ -87,4 +87,4 @@ public/       arquivos estáticos
 **Jamilly de Souza**, estudante de Engenharia de Software na UVV.
 
 - GitHub: [jajaxxxx](https://github.com/jajaxxxx)
-- LinkedIn: [adicionar link]
+- LinkedIn: [https://www.linkedin.com/in/jamilly-souza-a47140275/]
