@@ -32,6 +32,7 @@ Também conta com:
 - [x] Página de serviços
 - [x] Agendamento online de horários
 - [x] Painel de gestão para a barbearia
+- [ ] Sistema de cadastro e login
 
 ## Como rodar o projeto
 
@@ -85,5 +86,5 @@ public/       arquivos estáticos
 
 **Jamilly de Souza**, estudante de Engenharia de Software na UVV.
 
-- GitHub: [SEU-USUARIO](https://github.com/SEU-USUARIO)
+- GitHub: [jajaxxxx](https://github.com/jajaxxxx)
 - LinkedIn: [adicionar link]
